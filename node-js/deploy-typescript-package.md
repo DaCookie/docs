@@ -108,7 +108,7 @@ export class Test { }
     "index.d.ts",
     "index.js"
 ],
-"main": "lib/index.js"
+"main": "./index.js"
 "scripts": {
     "build": "tsc",
     "lint": "tslint -p tsconfig.json",
