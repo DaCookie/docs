@@ -133,6 +133,19 @@ Commands:
 
 ---
 
+## Final touch
+
+Create a `.gitignore` file:
+
+```
+node_modules
+/lib
+/bin
+/doc
+```
+
+---
+
 ## Log into *npm*, then publish the package:
 
 ```bash
